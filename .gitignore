@@ -1,6 +1,10 @@
 # Template from:
 # https://github.com/github/gitignore/blob/master/Python.gitignore
 
+Include/
+Scripts/
+pyvenv.cfg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
